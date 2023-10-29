@@ -41,6 +41,7 @@ public class tahlil{
 
     }
     long miangin=time/tedad;
+    System.out.print("5logx : ");
      System.out.println(miangin);
     }
 
@@ -61,6 +62,7 @@ public class tahlil{
 
         }
     long miangin=time/tedad;
+    System.out.print("7xlogx : ");
      System.out.println(miangin);
     }
 
@@ -81,6 +83,7 @@ public class tahlil{
 
     }
     long miangin=time/tedad;
+    System.out.print("2^x : ");
      System.out.println(miangin);
     }
 
@@ -100,6 +103,7 @@ public class tahlil{
 
     }
     long miangin=time/tedad;
+    System.out.print("x^2 : ");
      System.out.println(miangin);
     }
 
@@ -120,6 +124,7 @@ public class tahlil{
 
         }
     long miangin=time/tedad;
+    System.out.print("10x^2 : ");
      System.out.println(miangin);
     }
     public static void main(String [] args){
